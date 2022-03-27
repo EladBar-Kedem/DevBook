@@ -1,6 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://elad88:elad2288@devbook.wbatd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId": "314d26927bcc41322591",
-    "githubSecret": "2a9168896c71c4fc9cdbc695a96263205968d28d"
-}
